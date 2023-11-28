@@ -1,0 +1,453 @@
+@media(width: 3840px){
+    .stages-img{
+        left:1975px;
+        top:1965px;
+    }
+    .footer-first-cart{
+        padding-left: 1050px;
+    }
+    .footer-second-cart{
+        left:1675px;
+    }
+    .footer-thirt-cart{
+        left:2475px;
+        
+    }
+    .header{
+        padding-left: 1050px;
+        padding-right: 980px;
+    }
+}
+
+@media(max-width: 1500px){
+    .conteiner{
+        max-width: 1024px;
+        margin: 0 auto;
+        padding: 0 50px;
+    }
+    .logotipe{
+        margin-top:20px;
+        margin-left:50px;
+    }
+    .compass{
+        max-width:25px;
+        min-height: 48px;
+    }
+    .vector-text{
+        max-width:116px;
+        min-height: 28px;
+    }
+    .header-list-item{
+        margin-left: 60px;
+    }
+    .card-initial{
+        height: 668px;
+        margin-top: 40px;
+    }
+    .card-initial-img{
+        height: 668px;
+        width: 924px;
+    }
+    .card-initial-text{
+        top: 150px;
+    }
+
+    .other-cart{
+        min-height: 1681px;
+    }
+    .btn{
+        margin-top: 60px;
+    }
+    .omg{
+        margin-top: 35px;
+    }
+    .other-img{
+        width: 924px;
+        height: 640px;
+        position: static;
+    }
+    .other-img-text{
+        height: 196px;
+        width: 924px;
+        top:1675px;
+    }
+    .other-text-back{
+        padding-top: 50px;
+    }
+    .btn-two{
+        left:700px
+    }
+    .other-list-item{
+        width: 924px;
+        margin: 0;
+        margin-top: 32px;
+    }
+    .logo-item{
+        padding: 65px 77px;
+    }
+    .other-cart-them{
+        margin-left:320px;
+    }
+
+    .stages-cart{
+        max-height: 792px;
+    }   
+    .stages-title{
+        margin-top: 80px;
+    }
+    .stages-text{
+        width: 437px;
+        height: 576px;
+        line-height: 1.3;
+    }
+    .stages-btn{
+        margin-top: 25px;
+    }
+    .stages-img{
+        position: absolute;
+	left: 537px;
+        top:2712px;
+        width: 437px;
+        height: 689px;
+    }
+
+
+    .question-title{
+        margin-top: 80px;
+    }
+    .question-cart-list{
+        flex-wrap: wrap;
+    }
+    .question-cart-items{
+        width: 924px;
+        height: 231px;
+    }
+    .dop-canteiner{
+        width: 799px;
+        height: 101px;
+        margin: 65px 60px;
+    }
+
+    .footer-second-cart{
+        position: relative;
+        left:-15px;
+        top:-500px;
+    }
+    .footer-logo{
+        margin-left: 50px;
+    }
+    .footer-list{
+        margin-left: 50px;
+    }
+    .footer-icons{
+        margin-left: 50px;
+    }
+    .border-footer{
+        width: 541px;
+    }
+   .footer-thirt-cart{
+        display:none;
+    }
+}
+
+@media(max-width: 1000px){
+    .header-list-item{
+        margin-left: 39px;
+    }
+    .conteiner{
+        margin: 0;
+        max-width: 768px;
+    }
+    .card-initial{
+        margin: 0;
+        margin-top: 40px;
+    }
+    .card-initial-img{
+        width: 668px;
+    }
+    .compass{
+        width: 18px;
+        height: 35px;
+    }
+    .vector-text{
+        width: 84px;
+        height: 20px;
+    }
+    .card-initial-text {
+        width: 588px;
+    }
+    .initial-h2 {
+        font-size: 50px;
+    }
+    .initial-text {
+        font-size: 18px;
+        line-height: 0.4;
+        letter-spacing: 1.5px;
+    }
+    .other-img-text{
+        width: 668px;
+        height: 196px;
+        top:1715px;
+    }
+    .btn-two{
+        left: 450px;
+    }
+    .other-list-item{
+        width: 668px;
+    }
+    .logo-item{
+        width: 114px;
+        height: 100px;
+        padding: 0;
+        margin-top: 90px;
+        margin-left: 50px;
+    }
+    .other-cart-them {
+        margin-left: 200px;
+        top: 65px;
+    }
+    .stages-img {
+        position: static;
+        width: 668px;
+        height: 284px;
+    }
+    .stages-text {
+        width: 667px;
+        height: 352px;
+    }
+    .question-cart-items{
+        width: 668px;
+        height: 200px;
+    }
+    .dop-canteiner {
+        width: 563px;
+        height: 130px;
+        margin: 35px 40px;
+    }
+    .footer{
+        height: 792px;
+        margin-top: 80px;
+    }
+    .footer-list{
+        display: none;
+    }
+    .footer-icons{
+        margin-top: 0;
+        position: relative;
+        top:600px
+    }
+    .footer-logo{
+        padding: 0;
+        position: relative;
+        top:580px
+    }
+    .footer-second-cart {
+        margin: 0;
+        left: 50px;
+        top: -100px;
+    }
+}
+    @media(max-width:500px) {
+        .conteiner{
+            width: 320px;
+            padding: 0 15px;
+        }
+        .logotipe {
+            margin-top: 17px;
+            margin-left: 15px;
+            height: 35px;
+        }
+        .vector-text{
+            position: relative;
+            top:-39px;
+            left: 20px;
+        }
+        .header-nav{
+            position: relative;
+            top:30px;
+            right: 100px;
+            width: 400px;
+            height: 20px;
+        }
+        .header-svg{
+            padding: 0;
+            margin-left: auto;
+        }
+        .header-list-item{
+            margin-left: 15px;
+            font-size: 16px;
+        }
+        .fantom{
+            margin: 0;
+            width: 55px;
+            white-space: nowrap;
+        }
+        .fd{
+            margin: 0;
+            margin-left: 10px;
+            width: 144px;
+            white-space: nowrap;
+        }
+
+        .card-initial-img{
+            width: 290px;
+            height: 308px;
+        }
+        .card-initial {
+            margin-top: 25px;
+            height: 308px;
+        }
+        .card-initial-text {
+            width: 240px;
+            top:60px;
+            left: 30px;
+        }
+        .initial-h2{
+            font-size: 20px;
+        }
+        .initial-text{
+            font-size: 12px;
+            line-height: 1.5;
+            margin: 0;
+        }
+        .btn{
+            border-radius: 8px;
+            padding: 13px 28px;
+            margin-top: 32px;
+            font-size: 12px;
+        }
+        .other-img-list{
+            margin-top: 14px;
+        }
+        .other-img{
+            width: 290px;
+            height: 200px;
+        }
+        .other-img-text{
+           background-color:transparent;
+           position: static;
+           width: 290px;
+        }
+        .item-text{
+            font-size: 14px;
+        }
+        .other-text-back{
+            color: #000;
+            padding-top: 8px;
+            padding-left: 0;
+            width: 290px;
+            font-size: 14px;
+        }
+        .btn-two{
+            border-radius: 8px;
+            color:#FF9900;
+            position: static;
+            margin-top: 120px;
+            padding: 12px 44px;
+        }
+        .other-list-item{
+            position: static;
+            border: none;
+        }
+        .logo-item{
+            position: static;
+            margin: 0;
+        }
+        .other-cart-them{
+            position: static;
+            margin: 0;
+            width: 290px;
+        }
+        .stages-title{
+            margin-bottom: 20px;
+        }
+        .stages-title-h3{
+            margin-top: 16px;
+        }
+        .stages-img{
+            height: 160px;
+        }
+        .stages-text{
+            height: 700px;
+            width: 290px;
+        }
+        .stages-btn{
+            display: flex;
+            margin: 0;
+        }
+        .btn-three-or{
+            border-radius: 8px;
+            padding: 12px 44px;
+        }
+        .btn-three{
+            color:#000;
+            background-color: transparent;
+            border-radius: 8px;
+            margin-left: 10px;
+            padding: 12px 32px;
+        }
+        .question-title{
+            margin-top: 60px;
+            margin-bottom: 0px;
+        }
+        .question-cart-items{
+            border: 0;
+            width: 290px;
+            height: 160px;
+        }
+        .dop-canteiner{
+            width: 290px;
+            height: 160px;
+            margin: 0;
+        }
+        .item-title{
+            font-size: 18px;
+        }
+        .questin-items-text{
+            font-size: 14px;
+            width: 290px;
+        }
+        .question-cart-list{
+            margin: 0;
+        }
+        .footer {
+            margin-top: 60px;
+        }
+        .footer-h2{
+            font-size: 24px;
+        }
+        .border-footer{
+            width: 290px;
+        }
+        .footer-second-cart {
+            left: 14px;
+        }
+        .check{
+            margin-left: 30px;
+            margin-top: 70px;
+        }
+        .footer-btn{
+            border-radius: 8px;
+            top: 22px;
+            left:60px;
+            padding: 12px 19px;
+            white-space: nowrap;
+        }
+        .footer-logo{
+            top:600px;
+            margin: 0;
+            left: 40px;
+            width: 290px;
+        }
+        .footer-icons{
+            left:20px;
+            top:620px;
+        }
+        .line{
+            width: 290px;
+            border: 1px solid #414141;
+            position: relative;
+            top:590px;
+            left: 10px;
+        }
+}
